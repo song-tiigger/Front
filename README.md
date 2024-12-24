@@ -1,7 +1,28 @@
 # React + Spring Boot  쇼핑몰 프로젝트
+React로 프론트엔드를, Spring Boot로 백엔드를 구현한 의류 쇼핑몰입니다. 
+UI/UX를 설계할 때는 Figma를 활용했습니다.
+협업툴로 Git과 Notion을 사용했습니다. Git을 통해 버전 관리를 진행하고 Notion을 통해 프로젝트 개요와 진행상황 등을 기록했습니다. 
+🔗[GitHub](https://github.com/SuperMiniBeans)
+🔗[Notion](https://www.notion.so/essential196/Shopping-Project-e7ddbae9e7624630843d8452ad63d79f)
 
-https://www.notion.so/essential196/Shopping-Project-e7ddbae9e7624630843d8452ad63d79f
+## 주요 기능
+#### 사용자 기능
+- 회원가입/ 로그인
+- 마이페이지:
+  - 내 정보 보기 및 수정
+  - 찜 목록 관리
+  - 장바구니
+- 상품 목록 및 상세 페이지
+- 카카오페이를 활용한 간편 결제
+- 
+#### 관리자 기능
+- 상품 관리 페이지: 상품 확인, 등록, 수정, 삭제
 
-## Available Scripts
+## 역할 분담
+| 이름    | 역할                             | 설명                                      |
+|---------|----------------------------------|-------------------------------------------|
+| **essential14** | 프로젝트 관리                  | 프로젝트 초기 세팅, 질의응답, 스케줄 관리 |
+| **higggu** | 백엔드                   | DB 설계, API 작성      |
+| **팀원3** | 프론트엔드 | Figma를 통한 기획 및 디자인, UI/UX 구현        |
 
-In the project directory, you can run:
+
